@@ -7022,4 +7022,4 @@
 - [Parishi](https://github.com/p489)
 - [Gangadhar](https://github.com/p489)
 - [Arif Ahmad](https://github.com/arifahmad-py)
-- [Rishabh](https://github.com/Risabh-Thapliyal)
+- [Rishabh Thapliyal](https://github.com/Risabh-Thapliyal)
